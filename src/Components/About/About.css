@@ -1,0 +1,65 @@
+.about-section{
+    padding-top: 15%;
+    padding-left:10%;
+}
+.btn-learns{
+    padding: 10px;
+    margin-left:-8px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(124, 201, 226) , rgb(103, 226, 132));
+    margin-top: 48px;
+    font-size: large;
+}
+#para1{
+    letter-spacing:1.5px;
+    font-size: large;
+    line-height: 30px;
+    margin-top: 25px;
+}
+.logo-about{
+    position: absolute;
+    margin-top: -228px;
+    height: 80px;
+    width: 200px;
+    left: 10%;
+}
+#about-lgo{
+    margin-top: -265px;
+    margin-right: 21%;
+    float: right;
+    height: 360px;
+}
+
+
+.clg-section{
+    margin-top: 105px;
+    margin-left: 25%;
+}
+#clg1{
+    border-radius: 25px;
+    padding-right: 25px;
+    margin-left:-255px;
+    margin-top: 50px;
+    height: 175px;
+}
+#clg2{
+    margin-top: 50px;
+    height: 175px;
+}
+.clg-section #clg3{
+    border-radius: 25px;
+    width: 350px;
+}
+#clg3{
+    border-radius: 24px;
+    padding-left: 25px;
+    margin-top: 50px;
+    height: 175px;
+}
+.team-section{
+    margin-top: 51px;
+    margin-left: 25%;
+}
+#h12{
+    margin-left: 125px;
+}

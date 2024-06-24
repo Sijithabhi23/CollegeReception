@@ -1,0 +1,16 @@
+.image-program{
+    background: #f5f5f5;
+    border: none;
+    height: 380px;
+    width: 800px;
+    margin-left: 22rem;
+    background-clip:content-box;
+}
+.program-section h2{
+    margin-top: 25px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+.program-section{
+    margin-top: 45px    ;
+}

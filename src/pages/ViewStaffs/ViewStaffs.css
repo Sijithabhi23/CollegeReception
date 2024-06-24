@@ -1,0 +1,22 @@
+.table-fetch-data{
+  text-align: center;
+}
+td,th{
+  padding:15px;
+  border:2px solid black;
+}
+table{
+  border-collapse: collapse;
+  border:2px solid black;
+ background-color:rgb(163, 195, 208);
+ margin-top: 5%;
+}
+.table-fetch-data h2{
+ margin-top: 25px;
+}
+.table-data{
+ height:8rem;
+ width:32rem;
+ padding: 15px;
+ margin-left: 33%;
+}

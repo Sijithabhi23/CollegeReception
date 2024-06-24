@@ -1,0 +1,15 @@
+.footer-content {
+    margin-top: 150px;
+    display: flex;
+      flex-wrap:wrap;
+    justify-content:space-evenly;
+      background:#ddff;
+      font-family: 'Poppins', sans-serif;
+    }
+    ul{
+        margin-top: 50px;
+      list-style:none;    
+    } 
+    .space{
+      margin-top:10px;
+    }

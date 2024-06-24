@@ -1,0 +1,58 @@
+.clg-sec{
+    height: 200px;
+    width: 281px;
+    border-radius: 25px;
+    margin-top: 45px;
+    margin-left: 11.5rem;
+    margin-right:-82px;
+}
+.clg-sec:hover{
+    filter: brightness(0.3)
+}
+#p1{
+    position:relative;
+    padding-top: 10px;
+    color: white;
+    margin-top: -115px;
+    font-size: larger;
+    padding-left: 17.5rem;
+}
+#p2{
+    position:relative;
+    color: white;
+    margin-top: -65px;
+    font-size: larger;
+    padding-left: 41.5rem;
+}
+
+#p3{
+    position: relative;
+    color: white;
+    margin-top: -75px;
+    font-size: larger;
+    padding-left: 65rem;
+}
+
+.icon-logo1{
+    position: relative;;
+    margin-top: -150px;
+    margin-left: 288px;
+    width: 60px;
+    height: 40px;
+}
+.icon-logo2{ 
+    position: relative;    
+    margin-top: -160px;
+    margin-left: 45%;
+    width: 60px;
+    height: 40px;
+}
+
+
+.icon-logo3{    
+    position: relative;
+    margin-top: -150px;
+    margin-left: 70%;
+    width: 60px;
+    height: 40px;
+}

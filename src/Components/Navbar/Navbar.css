@@ -1,0 +1,30 @@
+nav {
+    width: 100%;
+    color: #fff;
+    display: flex;
+    padding: 0.25px;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+}
+
+/* Style the logo */
+.logo {
+    width: 150px;
+}
+
+/* Style the navigation links */
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding-right: 45px;
+    margin: 5px 20px;
+}
+
+/* Adjust the container width */
+.container {
+    padding-left: 10%;
+    padding-right: 10%;
+}
