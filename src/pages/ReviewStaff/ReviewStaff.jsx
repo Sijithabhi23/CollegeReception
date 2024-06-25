@@ -3,6 +3,13 @@ import axios from 'axios';
 import "./ReviewStaff.css"
 function ReviewStaff() {
 
+  const handleAccept=()=>{
+
+  }
+  
+
+  const handleReject=()=>{
+  }
     
     const[data,setData]=useState([]);
     useEffect(()=>{
@@ -40,8 +47,8 @@ function ReviewStaff() {
               <td>{item.Name}</td>
               <td>{item.Department}</td>
               <td>{item.Contact}</td>
-              <td><button className='btn-accept'>Accept</button></td>
-              <td><button className='btn-reject'>Reject</button></td>
+              <td><button onClick={handleAccept} className='btn-accept'>Accept</button></td>
+              <td><button onClick={handleReject} className='btn-reject'>Reject</button></td>
             </tr>
           ))}
         </tbody>

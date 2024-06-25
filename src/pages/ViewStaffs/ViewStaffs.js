@@ -33,7 +33,7 @@ function ViewStaffs() {
             <th>Department</th>
             <th>Contact</th>
             <th>Action</th>
-            {/* Add more headers as needed */}
+
           </tr>
         </thead>
         <tbody>
@@ -43,7 +43,7 @@ function ViewStaffs() {
               <td>{item.Department}</td>
               <td>{item.Contact}</td>
               <td><button className='btn-accept'>GET APPOINTMENT</button></td>
-              {/* Add more data cells as needed */}
+          
             </tr>
           ))}
         </tbody>
